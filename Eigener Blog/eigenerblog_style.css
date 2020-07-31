@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: hotpink;
+}
+
+.title {
+    font-size: 100px;
+
+}
+
+h2 {
+    background-color: rgb(64 57 52);
+    color: ivory;
+
+}
+
+.vorstellung {
+
+    font-size: x-large;
+    color: black;
+}
